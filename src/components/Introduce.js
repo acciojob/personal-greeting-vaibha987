@@ -9,7 +9,7 @@ return(
      <input onChange={(e)=>{
      setName(e.target.value)
      }} type="text"></input>
-     <p>Hello {name} !</p>
+     <p>Hello {name}!</p>
     </div>
 )
 }
